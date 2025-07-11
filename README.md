@@ -14,6 +14,7 @@ Starship Enterprise is a KSP modification, that allows you get the best Starship
 # **SOFT DEPENDENCIES** (you can not install it, anyway mod will work properly)
 - Shabby
 - Resurfaced
+- HullCameraVDS Continued
 
 # **SUPPORTED MODS** (the mod will properly work with listed mods)
 - kOS (script your starship)
