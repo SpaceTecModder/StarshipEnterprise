@@ -9,7 +9,7 @@ Starship Enterprise is a KSP modification, that allows you get the best Starship
 - Community Resource Pack
 - Cryo Tanks
 - Community Category Kit
-- ### STARSHIP EXPANSION PROJECT (for now)
+- ### STARSHIP EXPANSION PROJECT (for now) ONLY 2.2.0 WILL WORK
 
 # **SOFT DEPENDENCIES** (you can not install it, anyway mod will work properly)
 - Shabby
