@@ -8,6 +8,7 @@ Starship Enterprise is a KSP modification, that allows you get the best Starship
 - Waterfall
 - Community Resource Pack
 - Cryo Tanks
+- Cryo Engines
 - Community Category Kit
 - INFERNAL ROBOTICS (FOR working PEZ-Dispencer)
 - ### STARSHIP EXPANSION PROJECT (for now) ONLY 2.2.0 WILL WORK
