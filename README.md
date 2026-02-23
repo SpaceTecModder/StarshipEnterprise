@@ -20,5 +20,6 @@ Starship Enterprise is a KSP modification, that allows you get the best Starship
 
 # **SUPPORTED MODS** (the mod will properly work with listed mods)
 - kOS (script your starship)
+- SE-KoS-Interface (autopilot for Starship)
 - MechJeb2
 - Firefly
